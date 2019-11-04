@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>952408084976-ps2rc3bosaj8lf11ovkpiqgn8tqnrvnm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.952408084976-ps2rc3bosaj8lf11ovkpiqgn8tqnrvnm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBsaXs3ibPmENvk7jG-CNumsOqJH2bsXLk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>952408084976</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.JonathanNunez.nunezjonathan-ios-alpha</string>
+	<key>PROJECT_ID</key>
+	<string>nunezjonathan-ios-alpha</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nunezjonathan-ios-alpha.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:952408084976:ios:c0af225a7480fe299ecd35</string>
+	<key>DATABASE_URL</key>
+	<string>https://nunezjonathan-ios-alpha.firebaseio.com</string>
+</dict>
+</plist>
